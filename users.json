@@ -1,0 +1,18 @@
+[
+  {
+    "id": "25d480d0-1c78-4449-8413-025115fe85b7",
+    "email": "eran@jal.ink",
+    "password_hash": "$2a$10$gYdfGJR7WDCMOS/.x7Tf3OwMHpjVht1LNTiwCrmlxmppLc70A44CW",
+    "provider_credentials": [
+      {
+        "id": "f7d61381-241e-4abf-a75c-a3c793332ebb",
+        "email": "eran3d@gmail.com",
+        "full_name": "Clone User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "PP0dv5l61Sfx4hKTVoPzxllrw3+b4dJdRIVjcQbW58cOp6CDgF6finOe1OJ1\nv8c862/JLbuM5PpMyN+vxYtINA==\n"
+      }
+    ]
+  }
+]
